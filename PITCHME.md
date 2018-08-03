@@ -1,6 +1,7 @@
-## No matter how late you are, 10 practices for finishing the Spartan Race and getting a medal.
-
-* たとえどんけつでもスパルタンレースを走破してメダルを手にするための１０のプラクティス
+### どんけつだとしても
+### スパルタンレースで
+### メダルを獲るための
+### １０のプラクティス
 
 * Author: Higashi Ryohei
 * CreatedAt: 2018/08/09
