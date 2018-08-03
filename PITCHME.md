@@ -1,3 +1,5 @@
+---?image=assets/img/background.png
+
 ### どんけつだとしても
 ### スパルタンレースで
 ### メダルを獲るための
