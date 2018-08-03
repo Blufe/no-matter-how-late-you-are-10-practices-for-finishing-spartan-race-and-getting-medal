@@ -1,12 +1,16 @@
 ---?image=assets/img/background.png
+@title[No matter how late you are, 10 practices for finishing the Spartan Race and getting a medal.]
 
-### どんけつだとしても
-### スパルタンレースで
-### メダルを獲るための
-### １０のプラクティス
+### @css[title-text](た と え ど ん け つ で も)
+### @css[title-text](ス パ ル タ ン レ ー ス で)
+### @css[title-text](メ ダ ル を 獲 る た め の)
+### @css[title-text](１ ０ の プ ラ ク テ ィ ス)
 
-* Author: Higashi Ryohei
-* CreatedAt: 2018/08/09
+@snap[south-east]
+@color[white](@size[0.8em](Author: Higashi Ryohei))
+<br>
+@color[white](@size[0.8em](CreatedAt: 2018/08/09))
+@snapend
 
 ---
 

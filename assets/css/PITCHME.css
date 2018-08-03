@@ -1,0 +1,8 @@
+.title-text {
+  color: tomato;
+  text-shadow:
+    white  2.0px 2.0px 0, white -2.0px -2.0px 0, /* 右下, 左上 */
+    white -2.0px 2.0px 0, white  2.0px -2.0px 0, /* 右上, 左下 */
+    white    0px 2.0px 0, white    0px -2.0px 0, /* 右,   左 */
+    white -2.0px   0px 0, white  2.0px    0px 0; /* 上,   下 */
+}

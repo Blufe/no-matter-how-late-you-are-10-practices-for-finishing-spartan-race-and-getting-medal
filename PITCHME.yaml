@@ -1,5 +1,6 @@
 # テーマの設定
 #theme : sky
+theme-override : assets/css/PITCHME.css
 
 #ロゴアイコンの設定
 logo : assets/img/logo.png
